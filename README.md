@@ -1,4 +1,4 @@
-# Serverless - AWS Node.js Typescript Version 2
+# Serverless - AWS Node.js Typescript
 
 Serverless Framework template for zero-config TypeScript support.
 In this version of the template there is no `aws-sdk` npm package as it is recommended to use modular [version 3 of aws-sdk](https://github.com/aws/aws-sdk-js-v3) instead.
