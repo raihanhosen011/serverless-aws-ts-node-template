@@ -47,7 +47,3 @@ or:
 ```
 yarn
 ```
-
-## Licence
-
-MIT.
